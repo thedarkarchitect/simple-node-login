@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  iframe {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
